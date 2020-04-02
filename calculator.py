@@ -7,7 +7,7 @@ from openpyxl import Workbook
 import numpy as np
 from ctypes import cdll
 import os
-from calc_ui3 import Ui_MainWindow
+from calculator_UI import Ui_MainWindow
 
 
 class Mywindow(QMainWindow, Ui_MainWindow):
