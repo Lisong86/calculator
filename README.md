@@ -1,2 +1,2 @@
 # calculator
-Calculator for colloidal surface properties
+Calculator for colloidal surface properties and particle interaction
