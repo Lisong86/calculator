@@ -166,7 +166,7 @@ class Mywindow(QMainWindow, Ui_MainWindow):
 	def concentration(self, elect):
 		c = float(self.ui.lineEdit_11.text()) * 10 ** float(self.ui.lineEdit_12.text())
 		if elect == 12:
-			c *= 2
+			c *=2
 		return c
 
 	def distance(self):
